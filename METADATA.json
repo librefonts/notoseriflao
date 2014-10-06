@@ -1,0 +1,33 @@
+{
+  "name": "Noto Serif Lao",
+  "designer": "Danh Hong",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 18124,
+  "fonts": [
+    {
+      "name": "Noto Serif Lao",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSerifLao-Bold.ttf",
+      "postScriptName": "NotoSerifLao-Bold",
+      "fullName": "Noto Serif Lao Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Serif Lao",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSerifLao-Regular.ttf",
+      "postScriptName": "NotoSerifLao",
+      "fullName": "Noto Serif Lao",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

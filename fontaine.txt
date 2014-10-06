@@ -1,0 +1,68 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Noto Serif Lao
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2012 Google Inc. All Rights Reserved.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00 June 25, 2012, initial release
+    Vendor: Danh Hong
+    Vendor url: http://code.google.com/p/noto/
+    Designer: Danh Hong
+    Designer url: http://khmertype.blogspot.com/
+    Glyph count: 164
+    Character count: 118
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Noto Serif Lao
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright 2012 Google Inc. All Rights Reserved.
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.00 June 25, 2012, initial release
+    Vendor: Danh Hong
+    Vendor url: http://code.google.com/p/noto/
+    Designer: Danh Hong
+    Designer url: http://khmertype.blogspot.com/
+    Glyph count: 164
+    Character count: 118
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
